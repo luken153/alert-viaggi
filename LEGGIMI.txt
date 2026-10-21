@@ -1,0 +1,5 @@
+ALERT VIAGGI - sito collegato a GitHub
+
+Questa cartella e' il sito pubblicato su Netlify (deploy automatico da Git).
+dati.json viene riscritto dal controllo automatico: ogni push rifa' il deploy e l'app sul telefono si aggiorna da sola.
+Non modificare index.html/manifest/sw.js a mano senza passare da Claude: vengono ricostruiti insieme.

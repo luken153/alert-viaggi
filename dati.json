@@ -1,6 +1,6 @@
 {
   "versione": 2,
-  "aggiornato_il": "2026-10-26",
+  "aggiornato_il": "2026-10-27",
   "famiglia": {
     "adulti": 2,
     "ragazzi": [
@@ -25,14 +25,14 @@
   },
   "controllo": {
     "id": "ultimo",
-    "ultimo_controllo": "2026-10-26",
-    "prossimo_controllo": "2026-10-27",
+    "ultimo_controllo": "2026-10-27",
+    "prossimo_controllo": "2026-10-28",
     "soglia_europa": 50,
     "soglia_ny": 500,
     "club_sconto_tratta": 10,
     "club_soglia_tratta": 29.99,
     "cambio_usd_eur": 1.1225,
-    "nota": "Controllo serale del 26 ottobre 2026 (lunedì, manutenzione settimanale): voli da Kayak.it (Budapest, Cracovia, Valencia, Malta, Europa, Polonia, Nord America, LaGuardia, British Airways), promo da SiViaggia, Telefonino.net, The Wom e Frattamaggiore (nessuna nuova), case vacanza da Likibu, hotel da Kayak.it.",
+    "nota": "Controllo serale del 27 ottobre 2026: voli da Kayak.it (Budapest, Cracovia, Europa, Polonia, Europa sud-orientale, Nord America, LaGuardia, British Airways; pagine aggiornate dal 20 al 26/10), promo da SiViaggia e Telefonino.net (nuova promo Ryanair fino al 28/10), case vacanza da Likibu, hotel da Kayak.it.",
     "giorni_scuola_ammessi": 0,
     "alert_promo": "tutte",
     "messaggi": "sempre",
@@ -1556,7 +1556,7 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/budapest",
-        "rilevato": "2026-10-26"
+        "rilevato": "2026-10-27"
       },
       "hotel": {
         "categoria": "tutti gli hotel",
@@ -1566,7 +1566,7 @@
         "mese_caro": "aprile",
         "link": "https://www.kayak.it/Hotel-a-Budapest.34945.hotel.ksp",
         "affidabilita": "Bassa",
-        "nota": "Kayak indica per febbraio sia 111 € sia 157–183 €: dato poco coerente. Dal 23 al 26/10 trovata solo la pagina degli hotel in centro (senza medie settimana/weekend): restano i dati del 21/10.",
+        "nota": "Kayak indica per febbraio sia 111 € sia 157–183 €: dato poco coerente. Dal 23 al 27/10 trovata solo la pagina degli hotel in centro (senza medie settimana/weekend): restano i dati del 21/10.",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
         "rilevato": "2026-10-21"
       }
@@ -1623,19 +1623,19 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/krakow-cracow",
-        "rilevato": "2026-10-26"
+        "rilevato": "2026-10-27"
       },
       "hotel": {
         "categoria": "hotel per famiglie",
-        "settimana": 106,
-        "weekend": 120,
+        "settimana": 100,
+        "weekend": 116,
         "mese_economico": "gennaio (58 €)",
-        "mese_caro": "aprile (209 €)",
+        "mese_caro": "aprile (210 €)",
         "link": "https://www.kayak.it/Hotel-a-Cracovia_Famiglie.Hff.9856.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "Il 26/10 la pagina Kayak degli hotel per famiglie non è comparsa nelle ricerche: restano i dati del 25/10.",
+        "nota": "Pagina Kayak degli hotel per famiglie riletta il 27/10: medie in leggero calo (feriali 100 €, weekend 116 €).",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
-        "rilevato": "2026-10-25"
+        "rilevato": "2026-10-27"
       }
     },
     {
@@ -1690,7 +1690,7 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/valencia",
-        "rilevato": "2026-10-26"
+        "rilevato": "2026-10-27"
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -1700,9 +1700,9 @@
         "mese_caro": "aprile (294 €)",
         "link": "https://www.kayak.it/Hotel-a-Valenza_Famiglie.Hff.19900.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "Controllo del 26/10: pagina Kayak degli hotel per famiglie riletta (dati invariati).",
+        "nota": "Controllo del 27/10: pagina Kayak degli hotel per famiglie riletta (dati invariati).",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
-        "rilevato": "2026-10-26"
+        "rilevato": "2026-10-27"
       }
     },
     {
@@ -2072,7 +2072,7 @@
         "mese_caro": "ottobre (446 €)",
         "link": "https://www.kayak.it/Hotel-a-New-York.15830.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "Per 4 persone serve una camera con due letti queen: spesso costa di più della doppia. Controlli dal 22 al 25/10: pagina hotel Kayak di New York non comparsa nelle ricerche, restano i dati del 21/10 (Likibu riletto il 25/10).",
+        "nota": "Per 4 persone serve una camera con due letti queen: spesso costa di più della doppia. Dal 22 al 27/10 la pagina hotel Kayak di New York non è comparsa nelle ricerche (il 27/10 nemmeno la pagina Likibu in dollari): restano i dati precedenti.",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
         "rilevato": "2026-10-21"
       }
@@ -2532,6 +2532,27 @@
       "appartamento_media_notte": 362,
       "hotel_settimana": null,
       "hotel_weekend": null
+    },
+    {
+      "data": "2026-10-27",
+      "citta_id": "budapest",
+      "appartamento_media_notte": 148,
+      "hotel_settimana": null,
+      "hotel_weekend": null
+    },
+    {
+      "data": "2026-10-27",
+      "citta_id": "cracovia",
+      "appartamento_media_notte": 118,
+      "hotel_settimana": 100,
+      "hotel_weekend": 116
+    },
+    {
+      "data": "2026-10-27",
+      "citta_id": "valencia",
+      "appartamento_media_notte": 207,
+      "hotel_settimana": 168,
+      "hotel_weekend": 186
     }
   ],
   "occasioni": [
@@ -2549,7 +2570,7 @@
       "tot4": 172,
       "giorni_scuola_persi": 0,
       "nota": "Volo nazionale (niente Club): weekend senza scuola, Etna e centro barocco.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Europa-EU0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/cta/261121/261122/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2568,7 +2589,7 @@
       "tot4": 196,
       "giorni_scuola_persi": 0,
       "nota": "Weekend senza scuola tra Immacolata e Natale, mercatini aperti; Club applicato se ogni tratta ≥ 29,99 € (verifica).",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-ROM/Budapest-Ferenc-Liszt-Intl-BUD",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bud/261212/261213/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2587,7 +2608,7 @@
       "tot4": 148,
       "giorni_scuola_persi": 1,
       "nota": "Prezzo più basso della lista, ma si perde venerdì 13; pagina Kayak aggiornata al 21/10.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Malta-MT0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mla/261113/261115/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2606,7 +2627,7 @@
       "tot4": 148,
       "giorni_scuola_persi": 1,
       "nota": "Weekend del ponte: si perde venerdì 4; pagina Kayak aggiornata al 21/10.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Malta-MT0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mla/261204/261206/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2625,7 +2646,7 @@
       "tot4": 156,
       "giorni_scuola_persi": 2,
       "nota": "Volo nazionale; si perdono gio 19 e ven 20.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Europa-EU0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/pmo/261119/261122/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2644,7 +2665,7 @@
       "tot4": 164,
       "giorni_scuola_persi": 2,
       "nota": "Wizz sotto 29,99 € a tratta: niente Club; si perdono ven 20 e lun 23.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Malta-MT0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mla/261120/261123/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2663,7 +2684,7 @@
       "tot4": 188,
       "giorni_scuola_persi": 1,
       "nota": "Katowice è a circa un'ora da Cracovia; si perde lunedì 30.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Polonia-PL0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/ktw/261128/261130/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2682,7 +2703,7 @@
       "tot4": 192,
       "giorni_scuola_persi": 2,
       "nota": "Mercatino di Natale in piazza del Mercato; si perdono gio 17 e ven 18.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Cracovia-Aeroporto-Internazionale-di-Cracovia-Balice-Giovanni-Paolo-II-KRK",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/krk/261217/261220/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2701,7 +2722,7 @@
       "tot4": 196,
       "giorni_scuola_persi": 2,
       "nota": "Tre notti con terme e mercatini; si perdono gio 10 e ven 11.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-ROM/Budapest-Ferenc-Liszt-Intl-BUD",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bud/261210/261213/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2720,7 +2741,7 @@
       "tot4": 200,
       "giorni_scuola_persi": 2,
       "nota": "Subito dopo l'Epifania: si perdono gio 7 e ven 8.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Cracovia-Aeroporto-Internazionale-di-Cracovia-Balice-Giovanni-Paolo-II-KRK",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/krk/270107/270110/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2739,7 +2760,7 @@
       "tot4": 204,
       "giorni_scuola_persi": 1,
       "nota": "Sotto 59,98 € A/R il Club non si applica; si perde venerdì 27.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Polonia-PL0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/ktw/261127/261129/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2758,7 +2779,7 @@
       "tot4": 212,
       "giorni_scuola_persi": 2,
       "nota": "Città poco turistica nel sud-est della Polonia; niente Club sotto 59,98 €; si perdono ven 20 e lun 23.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Polonia-PL0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/rze/261120/261123/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2777,13 +2798,29 @@
       "tot4": 220,
       "giorni_scuola_persi": 1,
       "nota": "Oceanogràfic e Città delle Arti; si perde lunedì 30.",
-      "rilevato": "2026-10-26",
+      "rilevato": "2026-10-27",
       "fonte": "Kayak.it",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Valencia-VLC",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/vlc/261128/261130/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     }
   ],
   "promo": [
+    {
+      "id": "ryanair-28ott",
+      "compagnia": "Ryanair",
+      "titolo": "Voli da 16,99 € a tratta (promo di Halloween)",
+      "prenota_entro": "2026-10-28",
+      "prenota_entro_testo": "mer 28 ott 2026 (ora non indicata)",
+      "viaggio_dal": "2026-11-01",
+      "viaggio_al": "2026-12-17",
+      "viaggio_testo": "1 nov – 17 dic 2026",
+      "stato": "Attiva",
+      "codice": "",
+      "nota_famiglia": "Copre i weekend di novembre e il ponte dell'Immacolata (non Natale); gli articoli citano solo partenze da Milano, Bergamo e Genova (Cracovia da Malpensa 16,99 €): nessuna rotta da Fiumicino o Ciampino nominata, verifica sul sito. Tariffa Basic con sola borsa sotto il sedile; non riguarda il Club Wizz né New York.",
+      "fonte": "SiViaggia e Telefonino.net, 27 ottobre 2026",
+      "link": "https://siviaggia.it/notizie/promozione-ryanair-27-28-ottobre-2026/607231/",
+      "rilevato": "2026-10-27"
+    },
     {
       "id": "ryanair-23ott",
       "compagnia": "Ryanair",
@@ -2935,9 +2972,9 @@
       "semaforo": "verde",
       "semaforo_emoji": "🟢",
       "semaforo_testo": "Prenota ora",
-      "motivo": "Resta come riferimento il prezzo trovato il 22/10: Iberia 493 € a persona (8–15 luglio, scalo a Madrid), sotto la soglia di 500 €, ma non ricompare da quattro controlli: le pagine Kayak lette il 26/10 mostrano partenze per New York solo fino a fine marzo 2027 (minimo 403 € con Icelandair su Newark). Verifica il prezzo per 4 prima di prenotare.",
+      "motivo": "Resta come riferimento il prezzo trovato il 22/10: Iberia 493 € a persona (8–15 luglio, scalo a Madrid), sotto la soglia di 500 €, ma non ricompare da cinque controlli: le pagine Kayak lette il 27/10 mostrano partenze per New York solo fino ad aprile 2027 (minimo 293 € con TAP su Nord America, 460 € Air Canada su LaGuardia). Verifica il prezzo per 4 prima di prenotare.",
       "min_giu_lug_pp": 493,
-      "min_giu_lug_testo": "493 € A/R a persona con Iberia, gio 8 – gio 15 lug 2027, 1 scalo a Madrid (Kayak, 1 adulto, visto il 22/10; dal 23 al 26/10 non ricompare sulle pagine Kayak lette)",
+      "min_giu_lug_testo": "493 € A/R a persona con Iberia, gio 8 – gio 15 lug 2027, 1 scalo a Madrid (Kayak, 1 adulto, visto il 22/10; dal 23 al 27/10 non ricompare sulle pagine Kayak lette)",
       "riferimento_luglio_pp": 673,
       "tot4_riferimento": 2692,
       "tipico_basso": 459,
@@ -2959,7 +2996,7 @@
       "regola_semaforo": "Verde: trovato un A/R a persona sotto la soglia per giugno–luglio, oppure siamo tra gennaio e marzo con un prezzo sotto la mediana di luglio. Giallo: tariffe non ancora visibili o finestra non ancora aperta. Rosso: da aprile in poi sopra 700 €: prenota comunque, i prezzi tendono a salire.",
       "documenti_testo": "Servono passaporto ed ESTA per tutti e 4, ragazzi compresi: fai l'ESTA sul sito ufficiale con qualche settimana di anticipo.",
       "partenza_target": "2027-06-10",
-      "ultimo_controllo": "2026-10-26",
+      "ultimo_controllo": "2026-10-27",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/New-York-NYC",
       "link_gflights": "https://www.google.com/travel/flights?hl=it&curr=EUR&q=Flights%20from%20FCO%20to%20NYC%20on%202027-06-10%20through%202027-06-24",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/nyca/270610/270624/?adultsv2=2&childrenv2=9%7C12&rtn=1"

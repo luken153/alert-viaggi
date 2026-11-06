@@ -1,6 +1,6 @@
 {
   "versione": 2,
-  "aggiornato_il": "2026-11-05",
+  "aggiornato_il": "2026-11-06",
   "famiglia": {
     "adulti": 2,
     "ragazzi": [
@@ -25,14 +25,14 @@
   },
   "controllo": {
     "id": "ultimo",
-    "ultimo_controllo": "2026-11-05",
-    "prossimo_controllo": "2026-11-06",
+    "ultimo_controllo": "2026-11-06",
+    "prossimo_controllo": "2026-11-07",
     "soglia_europa": 50,
     "soglia_ny": 500,
     "club_sconto_tratta": 10,
     "club_soglia_tratta": 29.99,
     "cambio_usd_eur": 1.1172,
-    "nota": "Controllo serale del 5 novembre 2026: promo da SiViaggia e ItaliaDaVedere; voli e New York da Kayak.it (pagine generate tra il 20/10 e il 5/11, prezzi da verificare); case vacanza Likibu (invariate) e hotel Kayak (Cracovia e Valencia; Budapest e New York non ricomparse, valori del 3/11).",
+    "nota": "Controllo serale del 6 novembre 2026: promo da SiViaggia, PiratinViaggio e The Wom (nessuna nuova; Wizz 'Piani invernali' scaduta il 5/11); voli e New York da Kayak.it (pagine generate tra il 20/10 e il 6/11, prezzi da verificare); case vacanza Likibu invariate; hotel Kayak per Cracovia e Valencia invariati, Budapest e New York non ricomparsi (valori del 3/11); Likibu New York disponibile solo in AUD, valore USD del 5/11 mantenuto.",
     "giorni_scuola_ammessi": 0,
     "alert_promo": "tutte",
     "messaggi": "sempre",
@@ -1539,7 +1539,7 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/budapest",
-        "rilevato": "2026-11-05"
+        "rilevato": "2026-11-06"
       },
       "hotel": {
         "categoria": "tutti gli hotel",
@@ -1549,7 +1549,7 @@
         "mese_caro": "aprile",
         "link": "https://www.kayak.it/Hotel-a-Budapest.34945.hotel.ksp",
         "affidabilita": "Bassa",
-        "nota": "EUR, letto il 03/11/2026 da un URL comparso nei risultati. Prima era 157 €/183 €, oggi è 182 €/188 € (in aumento). Febbraio circa 111 €/notte, aprile circa 334 €/notte. Il 4 e il 5/11 la pagina non è comparsa nelle ricerche (solo quella del centro, senza medie): valori del 3/11.",
+        "nota": "EUR, letto il 03/11/2026 da un URL comparso nei risultati. Prima era 157 €/183 €, oggi è 182 €/188 € (in aumento). Febbraio circa 111 €/notte, aprile circa 334 €/notte. Il 4, il 5 e il 6/11 la pagina non è comparsa nelle ricerche (solo quella del centro, senza medie): valori del 3/11.",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
         "rilevato": "2026-11-03"
       }
@@ -1606,7 +1606,7 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/krakow-cracow",
-        "rilevato": "2026-11-05"
+        "rilevato": "2026-11-06"
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -1616,9 +1616,9 @@
         "mese_caro": "aprile",
         "link": "https://www.kayak.it/Hotel-a-Cracovia_Famiglie.Hff.9856.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "EUR, letto il 05/11/2026 da un URL comparso nei risultati (pagina del 20/10). Invariato (106 €/120 €). Gennaio circa 58 €/notte, aprile circa 209 €/notte.",
+        "nota": "EUR, letto il 06/11/2026 da un URL comparso nei risultati (pagina del 20/10). Invariato rispetto al 5/11 (106 €/120 €).",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
-        "rilevato": "2026-11-05"
+        "rilevato": "2026-11-06"
       }
     },
     {
@@ -1673,7 +1673,7 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/valencia",
-        "rilevato": "2026-11-05"
+        "rilevato": "2026-11-06"
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -1683,9 +1683,9 @@
         "mese_caro": "aprile",
         "link": "https://www.kayak.it/Hotel-a-Valenza_Famiglie.Hff.19900.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "EUR, letto il 05/11/2026 da un URL comparso nei risultati (pagina del 20/10). Ieri 160 €/187 €, oggi 168 €/186 € (le versioni della pagina si alternano). Ora indica novembre come mese più economico (circa 59 €/notte, −61%) e aprile il più caro (circa 294 €/notte).",
+        "nota": "EUR, letto il 06/11/2026 da un URL comparso nei risultati (pagina del 20/10). Invariato rispetto al 5/11 (168 €/186 €).",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
-        "rilevato": "2026-11-05"
+        "rilevato": "2026-11-06"
       }
     },
     {
@@ -2055,7 +2055,7 @@
         "mese_caro": "ottobre",
         "link": "https://www.kayak.it/Hotel-a-New-York.15830.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "EUR. La pagina non è comparsa nelle ricerche di oggi ma si è aperta dal link già usato. Valori identici al 21/10 e al 2/11: probabilmente la pagina non è aggiornata. Per 4 persone serve una camera con due letti queen, che di solito costa più della doppia. Il 5/11 la pagina non è comparsa nelle ricerche: valori del 3/11.",
+        "nota": "EUR. La pagina non è comparsa nelle ricerche di oggi ma si è aperta dal link già usato. Valori identici al 21/10 e al 2/11: probabilmente la pagina non è aggiornata. Per 4 persone serve una camera con due letti queen, che di solito costa più della doppia. Il 5 e il 6/11 la pagina non è comparsa nelle ricerche: valori del 3/11.",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
         "rilevato": "2026-11-03"
       }
@@ -2788,28 +2788,37 @@
       "appartamento_media_notte": 406,
       "hotel_settimana": 369,
       "hotel_weekend": 384
+    },
+    {
+      "data": "2026-11-06",
+      "citta_id": "budapest",
+      "appartamento_media_notte": 166,
+      "hotel_settimana": 182,
+      "hotel_weekend": 188
+    },
+    {
+      "data": "2026-11-06",
+      "citta_id": "cracovia",
+      "appartamento_media_notte": 132,
+      "hotel_settimana": 106,
+      "hotel_weekend": 120
+    },
+    {
+      "data": "2026-11-06",
+      "citta_id": "valencia",
+      "appartamento_media_notte": 232,
+      "hotel_settimana": 168,
+      "hotel_weekend": 186
+    },
+    {
+      "data": "2026-11-06",
+      "citta_id": "newyork",
+      "appartamento_media_notte": 406,
+      "hotel_settimana": 369,
+      "hotel_weekend": 384
     }
   ],
   "occasioni": [
-    {
-      "id": "mla-1113-diverse",
-      "meta": "Malta",
-      "iata": "MLA",
-      "andata": "2026-11-13",
-      "ritorno": "2026-11-15",
-      "date_testo": "ven 13 – dom 15 nov",
-      "compagnia": "Diverse compagnie",
-      "wizz": false,
-      "prezzo_pp": 37,
-      "prezzo_effettivo": 37,
-      "tot4": 148,
-      "giorni_scuola_persi": 1,
-      "nota": "Venerdì–domenica, voli diretti; clima mite e acquario. Si perde 1 giorno di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Malta (versione del 21/10, riletta il 3/11)",
-      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Malta-MT0",
-      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mla/261113/261115/?adultsv2=2&childrenv2=9%7C12&rtn=1"
-    },
     {
       "id": "mla-1204-diverse",
       "meta": "Malta",
@@ -2823,30 +2832,11 @@
       "prezzo_effettivo": 37,
       "tot4": 148,
       "giorni_scuola_persi": 1,
-      "nota": "Sul ponte dell'Immacolata: si perde solo venerdì 4. Si perde 1 giorno di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
+      "nota": "Sul ponte dell'Immacolata, voli diretti; si perde solo venerdì 4. Prezzo letto il 3/11 (pagina del 21/10), non riletto oggi.",
+      "rilevato": "2026-11-06",
       "fonte": "Kayak.it, pagina Roma-Fiumicino–Malta (versione del 21/10, riletta il 3/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Malta-MT0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mla/261204/261206/?adultsv2=2&childrenv2=9%7C12&rtn=1"
-    },
-    {
-      "id": "mla-1119-ryanair",
-      "meta": "Malta",
-      "iata": "MLA",
-      "andata": "2026-11-19",
-      "ritorno": "2026-11-23",
-      "date_testo": "gio 19 – lun 23 nov",
-      "compagnia": "Ryanair",
-      "wizz": false,
-      "prezzo_pp": 37,
-      "prezzo_effettivo": 37,
-      "tot4": 148,
-      "giorni_scuola_persi": 3,
-      "nota": "Ryanair diretto, quattro notti. Si perdono 3 giorni di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Malta (versione del 21/10, riletta il 3/11)",
-      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Malta-MT0",
-      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mla/261119/261123/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
     {
       "id": "alc-0116-ryanair",
@@ -2861,8 +2851,8 @@
       "prezzo_effettivo": 38,
       "tot4": 152,
       "giorni_scuola_persi": 1,
-      "nota": "Ryanair diretto; si perde lunedì 18. Alicante è anche nella promo Wizz di oggi (gennaio sotto i 40 €). Spiagge e castello di Santa Bárbara, circa 17 °C.",
-      "rilevato": "2026-11-05",
+      "nota": "Diretto Ryanair; si perde lunedì 18. Prezzo letto il 5/11, non riletto oggi.",
+      "rilevato": "2026-11-06",
       "fonte": "Kayak.it, pagina Roma-Fiumicino–Spagna (versione del 31/10, letta il 5/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Spagna-ES0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/alc/270116/270118/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -2880,9 +2870,9 @@
       "prezzo_effettivo": 41,
       "tot4": 164,
       "giorni_scuola_persi": 1,
-      "nota": "Wizz diretto; sotto 29,99 € a tratta il Club non si applica. Anche gio 7 – sab 9 gen a 41 €. Si perde 1 giorno di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Bratislava (versione del 20/10, riletta il 3/11)",
+      "nota": "Wizz diretto (andata 21:25, ritorno 18:55): si perde solo venerdì 8; tratte sotto 29,99 €, quindi niente sconto Club. Vienna a un'ora di bus.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Bratislava (versione del 20/10, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Bratislava-M-R-Stefanik-BTS",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bts/270108/270109/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
@@ -2899,9 +2889,9 @@
       "prezzo_effettivo": 43,
       "tot4": 172,
       "giorni_scuola_persi": 1,
-      "nota": "Wizz diretto; mercatini di Natale aperti dal 20 novembre. Si perde 1 giorno di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Bratislava (versione del 20/10, riletta il 3/11)",
+      "nota": "Wizz diretto, partenza venerdì sera (21:25): si perde solo venerdì 20. Mercatini di Natale dal 20 novembre.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Bratislava (versione del 20/10, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Bratislava-M-R-Stefanik-BTS",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bts/261120/261121/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
@@ -2918,30 +2908,30 @@
       "prezzo_effettivo": 43,
       "tot4": 172,
       "giorni_scuola_persi": 3,
-      "nota": "Wizz diretto; città economica e monte Vitosha. Si perdono 3 giorni di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Sofia (versione del 21/10, riletta il 3/11)",
+      "nota": "Wizz diretto; si perdono 3 giorni di scuola. Città economica, monte Vitosha.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Sofia (versione del 21/10, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Sofia-SOF",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/sof/261126/261130/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
     {
-      "id": "ltn-1219-wizz",
-      "meta": "Londra Luton",
-      "iata": "LTN",
-      "andata": "2026-12-19",
-      "ritorno": "2027-01-09",
-      "date_testo": "sab 19 dic – sab 9 gen",
+      "id": "bts-1126-wizz",
+      "meta": "Bratislava",
+      "iata": "BTS",
+      "andata": "2026-11-26",
+      "ritorno": "2026-11-28",
+      "date_testo": "gio 26 – sab 28 nov",
       "compagnia": "Wizz Air",
       "wizz": true,
-      "prezzo_pp": 66,
-      "prezzo_effettivo": 46,
-      "tot4": 184,
-      "giorni_scuola_persi": 4,
-      "nota": "Copre le vacanze di Natale; Club stimato; serve passaporto o ETA. Si perdono 4 giorni di scuola. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Londra Luton (versione del 20/10, riletta il 3/11)",
-      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Londra-Luton-LTN",
-      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/ltn/261219/270109/?adultsv2=2&childrenv2=9%7C12&rtn=1"
+      "prezzo_pp": 45,
+      "prezzo_effettivo": 45,
+      "tot4": 180,
+      "giorni_scuola_persi": 2,
+      "nota": "Wizz diretto; si perdono giovedì e venerdì. Mercatini di Natale aperti.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Bratislava (versione del 20/10, riletta il 6/11)",
+      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Bratislava-M-R-Stefanik-BTS",
+      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bts/261126/261128/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
     {
       "id": "ktw-1128-ryanair",
@@ -2956,9 +2946,9 @@
       "prezzo_effettivo": 47,
       "tot4": 188,
       "giorni_scuola_persi": 1,
-      "nota": "Ryanair diretto (Wizz ven 27 – dom 29 nov 51 €); Cracovia a circa un'ora di bus; si perde lunedì 30.",
-      "rilevato": "2026-11-05",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Polonia (versione del 21/10, riletta il 5/11)",
+      "nota": "Ryanair diretto; si perde lunedì 30; Cracovia a un'ora di bus. Prezzo letto il 5/11.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Polonia (versione del 21/10, letta il 5/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Polonia-PL0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/ktw/261128/261130/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
@@ -2975,9 +2965,9 @@
       "prezzo_effettivo": 48,
       "tot4": 192,
       "giorni_scuola_persi": 2,
-      "nota": "Wizz diretto, 48 € con il Club; mercatino di Natale; si perdono giovedì e venerdì.",
-      "rilevato": "2026-11-05",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Cracovia (versione del 23/10, riletta il 5/11)",
+      "nota": "Wizz diretto (andata 05:30); si perdono giovedì e venerdì. Mercatino di Natale in piazza del Mercato. Club stimato.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Cracovia (versione del 23/10, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Cracovia-Aeroporto-Internazionale-di-Cracovia-Balice-Giovanni-Paolo-II-KRK",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/krk/261217/261220/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
@@ -2994,11 +2984,30 @@
       "prezzo_effettivo": 50,
       "tot4": 200,
       "giorni_scuola_persi": 2,
-      "nota": "Wizz diretto, 50 € con il Club, subito dopo l'Epifania (si perdono gio 7 e ven 8); miniera di sale di Wieliczka.",
-      "rilevato": "2026-11-05",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Cracovia (versione del 23/10, letta il 5/11)",
+      "nota": "Wizz diretto subito dopo l'Epifania; si perdono giovedì e venerdì. Club stimato.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Cracovia (versione del 23/10, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Cracovia-Aeroporto-Internazionale-di-Cracovia-Balice-Giovanni-Paolo-II-KRK",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/krk/270107/270110/?adultsv2=2&childrenv2=9%7C12&rtn=1"
+    },
+    {
+      "id": "mad-1212-wizz",
+      "meta": "Madrid",
+      "iata": "MAD",
+      "andata": "2026-12-12",
+      "ritorno": "2026-12-13",
+      "date_testo": "sab 12 – dom 13 dic",
+      "compagnia": "Wizz Air",
+      "wizz": true,
+      "prezzo_pp": 72,
+      "prezzo_effettivo": 52,
+      "tot4": 208,
+      "giorni_scuola_persi": 0,
+      "nota": "Wizz diretto, nessun giorno di scuola perso (andata 06:00, ritorno 05:55 di domenica: weekend molto corto). Club stimato. Parco del Retiro, Museo del Prado, luminarie di Natale.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Tutte le destinazioni (versione del 6/11)",
+      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Tutte-le-destinazioni-000?tags=f:631",
+      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/mad/261212/261213/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
     {
       "id": "bud-1211-wizz",
@@ -3013,49 +3022,68 @@
       "prezzo_effettivo": 53,
       "tot4": 212,
       "giorni_scuola_persi": 1,
-      "nota": "Wizz diretto, 53 € con il Club; mercatini e terme; si perde venerdì 11.",
-      "rilevato": "2026-11-05",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Ungheria (versione del 5/11)",
+      "nota": "Wizz diretto (andata ven 21:30, ritorno dom 06:05): si perde solo venerdì 11. Club stimato.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Ungheria (versione del 5/11, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Ungheria-HU0",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bud/261211/261213/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
     {
-      "id": "bud-1219-wizz",
-      "meta": "Budapest",
-      "iata": "BUD",
-      "andata": "2026-12-19",
-      "ritorno": "2026-12-21",
-      "date_testo": "sab 19 – lun 21 dic",
-      "compagnia": "Wizz Air",
-      "wizz": true,
-      "prezzo_pp": 75,
-      "prezzo_effettivo": 55,
-      "tot4": 220,
-      "giorni_scuola_persi": 1,
-      "nota": "Wizz diretto, 55 € con il Club; ultimo weekend prima delle vacanze (si perde lunedì 21).",
-      "rilevato": "2026-11-05",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Ungheria (versione del 5/11)",
-      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Ungheria-HU0",
-      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bud/261219/261221/?adultsv2=2&childrenv2=9%7C12&rtn=1"
-    },
-    {
-      "id": "vlc-1205-wizz",
+      "id": "vlc-1120-ryanair",
       "meta": "Valencia",
       "iata": "VLC",
-      "andata": "2026-12-05",
-      "ritorno": "2026-12-09",
-      "date_testo": "sab 5 – mer 9 dic",
-      "compagnia": "Wizz Air",
-      "wizz": true,
+      "andata": "2026-11-20",
+      "ritorno": "2026-11-23",
+      "date_testo": "ven 20 – lun 23 nov",
+      "compagnia": "Ryanair",
+      "wizz": false,
+      "prezzo_pp": 54,
+      "prezzo_effettivo": 54,
+      "tot4": 216,
+      "giorni_scuola_persi": 2,
+      "nota": "Ryanair diretto (andata ven 22:40); si perdono venerdì e lunedì. Oceanogràfic.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Valencia (versione del 25/10, riletta il 6/11)",
+      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Valencia-VLC",
+      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/vlc/261120/261123/?adultsv2=2&childrenv2=9%7C12&rtn=1"
+    },
+    {
+      "id": "bcn-1223-diverse",
+      "meta": "Barcellona",
+      "iata": "BCN",
+      "andata": "2026-12-23",
+      "ritorno": "2026-12-28",
+      "date_testo": "mer 23 – lun 28 dic",
+      "compagnia": "Diverse compagnie",
+      "wizz": false,
       "prezzo_pp": 55,
       "prezzo_effettivo": 55,
       "tot4": 220,
-      "giorni_scuola_persi": 2,
-      "nota": "Wizz diretto sul ponte dell'Immacolata (sotto 29,99 € a tratta il Club non si applica); si perdono lun 7 (ponte da verificare) e mer 9.",
-      "rilevato": "2026-11-05",
-      "fonte": "Kayak.it, pagina Roma-Fiumicino–Spagna (versione del 31/10, letta il 5/11)",
-      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Spagna-ES0",
-      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/vlc/261205/261209/?adultsv2=2&childrenv2=9%7C12&rtn=1"
+      "giorni_scuola_persi": 0,
+      "nota": "Diretti, tutto nelle vacanze di Natale (nessun giorno perso). Sagrada Família, Acquario, Tibidabo. Combinazione di compagnie: Club non garantito.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Tutte le destinazioni (versione del 6/11)",
+      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Tutte-le-destinazioni-000?tags=f:631",
+      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bcn/261223/261228/?adultsv2=2&childrenv2=9%7C12&rtn=1"
+    },
+    {
+      "id": "vlc-1128-ryanair",
+      "meta": "Valencia",
+      "iata": "VLC",
+      "andata": "2026-11-28",
+      "ritorno": "2026-11-30",
+      "date_testo": "sab 28 – lun 30 nov",
+      "compagnia": "Ryanair",
+      "wizz": false,
+      "prezzo_pp": 55,
+      "prezzo_effettivo": 55,
+      "tot4": 220,
+      "giorni_scuola_persi": 1,
+      "nota": "Ryanair diretto nelle date del viaggio di novembre (+1 giorno); si perde lunedì 30.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma-Fiumicino–Valencia (versione del 25/10, riletta il 6/11)",
+      "link_fonte": "https://www.kayak.it/voli/Roma-Fiumicino-FCO/Valencia-VLC",
+      "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/vlc/261128/261130/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     },
     {
       "id": "bud-1212-wizz",
@@ -3070,9 +3098,9 @@
       "prezzo_effettivo": 59,
       "tot4": 236,
       "giorni_scuola_persi": 0,
-      "nota": "Sabato–domenica, nessun giorno di scuola perso; Club stimato solo sul ritorno (andata Wizz sotto 29,99 €). Nessun giorno di scuola perso. (Prezzo letto il 3/11, pagina non riletta oggi.)",
-      "rilevato": "2026-11-03",
-      "fonte": "Kayak.it, pagina Roma–Budapest (versione del 21/10, riletta il 3/11)",
+      "nota": "Wizz diretto, solo weekend (andata sab 21:30, ritorno dom 06:05: soggiorno brevissimo). Prezzo dalla pagina del 21/10.",
+      "rilevato": "2026-11-06",
+      "fonte": "Kayak.it, pagina Roma–Budapest (versione del 21/10, riletta il 6/11)",
       "link_fonte": "https://www.kayak.it/voli/Roma-ROM/Budapest-Ferenc-Liszt-Intl-BUD",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/bud/261212/261213/?adultsv2=2&childrenv2=9%7C12&rtn=1"
     }
@@ -3087,7 +3115,7 @@
       "viaggio_dal": "2026-11-01",
       "viaggio_al": "2027-01-31",
       "viaggio_testo": "1 nov 2026 – 31 gen 2027 (weekend e festivi inclusi, secondo disponibilità)",
-      "stato": "Attiva",
+      "stato": "Scaduta",
       "codice": "",
       "nota_famiglia": "Copre fine novembre, il ponte dell'Immacolata e le vacanze di Natale (Valencia 2–6 gen compresa); solo su sito e app Wizz; da Fiumicino l'articolo cita Alicante a gennaio sotto i 40 €, senza date. Non dice se si somma al Club né se esclude i costi amministrativi. Non riguarda New York. Scade stasera.",
       "fonte": "SiViaggia, 5 novembre 2026 (anche ItaliaDaVedere)",
@@ -3185,7 +3213,7 @@
       "viaggio_testo": "esempi di date dal 6 nov al 31 dic 2026",
       "stato": "Attiva",
       "codice": "",
-      "nota_famiglia": "Pagina Piratinviaggio aggiornata il 3/11: sola andata da Roma Tirana 12/11 33 € (da Fiumicino), Valencia 26/11 24 €, Barcellona 2/12 26 €, Varna 9/12 26 €, Madrid 11/12 26 €, Praga 22/12 29 €, Londra 16/12 38 € (aeroporto non sempre indicato). Solo Praga cade nelle vacanze di Natale; sotto 29,99 € a tratta il Club non si applica. Non riguarda New York. Nessuna scadenza: prezzi validi alla pubblicazione.",
+      "nota_famiglia": "Pagina Piratinviaggio aggiornata il 3/11: sola andata da Roma Tirana 12/11 33 € (da Fiumicino), Valencia 26/11 24 €, Barcellona 2/12 26 €, Varna 9/12 26 €, Madrid 11/12 26 €, Praga 22/12 29 €, Londra 16/12 38 € (aeroporto non sempre indicato). Solo Praga cade nelle vacanze di Natale; sotto 29,99 € a tratta il Club non si applica. Non riguarda New York. Nessuna scadenza: prezzi validi alla pubblicazione. Al 6/11 PiratinViaggio (aggiornato il 3/11) elenca da Fiumicino Valencia 26/11 a 24 €, Varna 9/12 a 26 €, Alicante 17/12 a 24 €, Londra 16/12 a 38 € (sola andata, senza scadenza dichiarata).",
       "fonte": "Piratinviaggio, pagina aggiornata il 3 novembre 2026",
       "link": "https://www.piratinviaggio.it/voli/promo-wizz-air",
       "rilevato": "2026-10-29"
@@ -3322,12 +3350,12 @@
   "ny": {
     "stato": {
       "id": "ny",
-      "semaforo": "verde",
-      "semaforo_emoji": "🟢",
-      "semaforo_testo": "Prenota ora",
-      "motivo": "Il minimo noto resta Iberia a 493 € a persona (8–15 luglio, via Madrid), sotto la soglia di 500 €, ma oggi non è ricomparso: le tariffe da Fiumicino lette oggi partono da 569 € (TAP via Lisbona). Verifica il prezzo prima di prenotare; per giugno ancora nessuna tariffa visibile.",
-      "min_giu_lug_pp": 493,
-      "min_giu_lug_testo": "493 € A/R a persona con Iberia, gio 8 – gio 15 lug 2027, 1 scalo a Madrid (Kayak, pagina luglio 2027 generata il 22/10, riletta il 4/11, non ricomparsa il 5/11). Il 5/11 la pagina Italia–New York luglio (generata l'1/11) mostra da Fiumicino TAP 569 € (12–26 lug, via Lisbona), TAP 574 € (6–28 lug) e ITA diretto 642 € (1–5 lug); media di luglio 708 €.",
+      "semaforo": "giallo",
+      "semaforo_emoji": "🟡",
+      "semaforo_testo": "Aspetta e tieni d'occhio",
+      "motivo": "Oggi il prezzo più basso visibile da Fiumicino è 566 € a persona (TAP via Lisbona, 13–22 luglio), sopra la soglia di 500 €: l'Iberia a 493 € del 2 novembre non è più ricomparso. La finestra migliore per prenotare si apre a gennaio; le tariffe di giugno non sono ancora visibili.",
+      "min_giu_lug_pp": 566,
+      "min_giu_lug_testo": "566 € A/R a persona con TAP, mar 13 – gio 22 lug 2027, 1 scalo a Lisbona (Kayak, pagina Italia–New York luglio 2027 generata il 5/11, letta il 6/11). Stessa pagina: TAP 588–590 € (1–14 lug), Finnair diretto 634 € (1–14 lug), ITA diretto 708 € (13–22 lug). Iberia 493 € (8–15 lug) letto il 2/11 non è più ricomparso. Giugno 2027 ancora non visibile.",
       "riferimento_luglio_pp": 673,
       "tot4_riferimento": 2692,
       "tipico_basso": 460,
@@ -3349,7 +3377,7 @@
       "regola_semaforo": "Verde: trovato un A/R a persona sotto la soglia per giugno–luglio, oppure siamo tra gennaio e marzo con un prezzo sotto la mediana di luglio. Giallo: tariffe non ancora visibili o finestra non ancora aperta. Rosso: da aprile in poi sopra 700 €: prenota comunque, i prezzi tendono a salire.",
       "documenti_testo": "Servono passaporto ed ESTA per tutti e 4, ragazzi compresi: fai l'ESTA sul sito ufficiale con qualche settimana di anticipo.",
       "partenza_target": "2027-06-10",
-      "ultimo_controllo": "2026-11-05",
+      "ultimo_controllo": "2026-11-06",
       "link_fonte": "https://www.kayak.it/voli/Italia-IT0/New-York-NYC.luglio.M07.ksp",
       "link_gflights": "https://www.google.com/travel/flights?hl=it&curr=EUR&q=Flights%20from%20FCO%20to%20NYC%20on%202027-06-10%20through%202027-06-24",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/nyca/270610/270624/?adultsv2=2&childrenv2=9%7C12&rtn=1"
@@ -3396,6 +3424,13 @@
         "tipo": "Trovato",
         "compagnia": "TAP Air Portugal",
         "descrizione": "Lun 12 – lun 26 lug 2027, Fiumicino–JFK con 1 scalo a Lisbona (Kayak.it, pagina Italia–New York luglio 2027 generata l'1/11, 1 adulto). Stessa pagina: TAP 6–28 lug 574 €, ITA diretto 1–5 lug 642 €."
+      },
+      {
+        "data": "2026-11-06",
+        "prezzo_pp": 566,
+        "tipo": "Trovato",
+        "compagnia": "TAP Air Portugal",
+        "descrizione": "Mar 13 – gio 22 lug 2027, Fiumicino–JFK con 1 scalo a Lisbona (Kayak.it, pagina Italia–New York luglio 2027 generata il 5/11, 1 adulto). Stessa pagina: Finnair diretto 634 € (1–14 lug), ITA diretto 708 € (13–22 lug)."
       }
     ],
     "mesi": [

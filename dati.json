@@ -1,6 +1,6 @@
 {
   "versione": 2,
-  "aggiornato_il": "2026-11-14",
+  "aggiornato_il": "2026-11-15",
   "famiglia": {
     "adulti": 2,
     "ragazzi": [
@@ -27,14 +27,14 @@
   },
   "controllo": {
     "id": "ultimo",
-    "ultimo_controllo": "2026-11-14",
-    "prossimo_controllo": "2026-11-15",
+    "ultimo_controllo": "2026-11-15",
+    "prossimo_controllo": "2026-11-16",
     "soglia_europa": 50,
     "soglia_ny": 500,
     "club_sconto_tratta": 10,
     "club_soglia_tratta": 29.99,
     "cambio_usd_eur": 1.1172,
-    "nota": "Controllo serale del 14 novembre 2026: promo da SiViaggia, The Wom e articoli di settore (nessuna promo nuova; Black Friday delle compagnie non ancora lanciato, settimana dal 23 nov); voli da pagine Kayak.it lette oggi (Spagna del 13/11, Europa e Polonia di ottobre: da riverificare); New York dalle pagine Kayak di giugno (versione del 22/10) e luglio (10/11); Likibu riletto per Budapest, Cracovia, Valencia e New York (invariato), Kayak hotel di Cracovia e Valencia serviti in versione vecchia.",
+    "nota": "Controllo serale del 15 novembre 2026: nessuna promo nuova (SiViaggia, The Wom: Black Friday delle compagnie non ancora lanciato, settimana dal 23 nov; tolte Ryanair e Volotea del 31/10); voli dalle pagine Kayak.it Roma-Fiumicino–Europa (versione del 20/10) e Sud-est Europa (15/11, senza date): occasioni e mete in calo invariate; New York dalle pagine Kayak di giugno (13/11) e luglio (versione del 22/10); Likibu riletto per Budapest, Cracovia, Valencia e New York (invariato), Kayak hotel di Cracovia e Valencia ancora nella versione del 20/10.",
     "giorni_scuola_ammessi": 0,
     "alert_promo": "tutte",
     "messaggi": "sempre",
@@ -1674,8 +1674,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/budapest",
-        "rilevato": "2026-11-14",
-        "nota": "Likibu riletto il 14/11: 166 $ a notte, invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-15",
+        "nota": "Likibu riletto il 15/11: invariato in dollari; convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "tutti gli hotel",
@@ -1742,8 +1742,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/krakow-cracow",
-        "rilevato": "2026-11-14",
-        "nota": "Likibu riletto il 14/11: 132 $ a notte, invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-15",
+        "nota": "Likibu riletto il 15/11: invariato in dollari; convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -1753,7 +1753,7 @@
         "mese_caro": "aprile",
         "link": "https://www.kayak.it/Hotel-a-Cracovia_Famiglie.Hff.9856.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "EUR, pagina famiglie del 13/11. Prima 106 €/120 €. Gennaio circa 59 €, aprile circa 212 €. Il 14/11 Kayak ha servito la versione del 20/10 della pagina (106/120 € e 168/186 €), più vecchia: tenuti i valori del 13/11.",
+        "nota": "EUR, pagina famiglie del 13/11. Prima 106 €/120 €. Gennaio circa 59 €, aprile circa 212 €. Il 14 e il 15/11 Kayak ha servito la versione del 20/10 della pagina (106/120 € e 168/186 €), più vecchia: tenuti i valori del 13/11.",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
         "rilevato": "2026-11-13"
       }
@@ -1810,8 +1810,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/valencia",
-        "rilevato": "2026-11-14",
-        "nota": "Likibu riletto il 14/11: 232 $ a notte, invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-15",
+        "nota": "Likibu riletto il 15/11: invariato in dollari; convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -1821,7 +1821,7 @@
         "mese_caro": "aprile",
         "link": "https://www.kayak.it/Hotel-a-Valenza_Famiglie.Hff.19900.hotel.ksp",
         "affidabilita": "Media",
-        "nota": "EUR, pagina famiglie del 13/11. Prima 168 €/186 €. Gennaio circa 68 €, aprile circa 298 €. Il 14/11 Kayak ha servito la versione del 20/10 della pagina (106/120 € e 168/186 €), più vecchia: tenuti i valori del 13/11.",
+        "nota": "EUR, pagina famiglie del 13/11. Prima 168 €/186 €. Gennaio circa 68 €, aprile circa 298 €. Il 14 e il 15/11 Kayak ha servito la versione del 20/10 della pagina (106/120 € e 168/186 €), più vecchia: tenuti i valori del 13/11.",
         "fonte": "Kayak.it, media delle ultime 2 settimane",
         "rilevato": "2026-11-13"
       }
@@ -2183,8 +2183,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/new-york",
-        "rilevato": "2026-11-14",
-        "nota": "Likibu riletto il 14/11: 406 $ a notte, invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-15",
+        "nota": "Likibu riletto il 15/11: invariato in dollari; convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "tutti gli hotel (camera doppia)",
@@ -3505,6 +3505,34 @@
       "appartamento_media_notte": 363,
       "hotel_settimana": 355,
       "hotel_weekend": 377
+    },
+    {
+      "data": "2026-11-15",
+      "citta_id": "budapest",
+      "appartamento_media_notte": 149,
+      "hotel_settimana": 181,
+      "hotel_weekend": 183
+    },
+    {
+      "data": "2026-11-15",
+      "citta_id": "cracovia",
+      "appartamento_media_notte": 118,
+      "hotel_settimana": 92,
+      "hotel_weekend": 134
+    },
+    {
+      "data": "2026-11-15",
+      "citta_id": "valencia",
+      "appartamento_media_notte": 208,
+      "hotel_settimana": 174,
+      "hotel_weekend": 189
+    },
+    {
+      "data": "2026-11-15",
+      "citta_id": "newyork",
+      "appartamento_media_notte": 363,
+      "hotel_settimana": 355,
+      "hotel_weekend": 377
     }
   ],
   "occasioni": [
@@ -3838,7 +3866,7 @@
       "viaggio_testo": "16 nov 2026 – 28 feb 2027",
       "stato": "Attiva",
       "codice": "",
-      "nota_famiglia": "Copre weekend, Immacolata, vacanze di Natale e febbraio; percentuale di sconto non indicata e nessuna rotta da Fiumicino citata (esempi da Milano, Venezia e Firenze). Non riguarda il Club Wizz né New York. Ultimo giorno domani, 15 novembre.",
+      "nota_famiglia": "Copre weekend, Immacolata, vacanze di Natale e febbraio; percentuale di sconto non indicata e nessuna rotta da Fiumicino citata (esempi da Milano, Venezia e Firenze). Non riguarda il Club Wizz né New York. Ultimo giorno oggi, 15 novembre.",
       "fonte": "SiViaggia, 9 novembre 2026 (anche ItaliaDaVedere)",
       "link": "https://siviaggia.it/notizie/promozione-vueling-9-15-novembre-2026/608792/",
       "rilevato": "2026-11-09"
@@ -3966,42 +3994,10 @@
       "viaggio_testo": "periodo di viaggio non ancora annunciato",
       "stato": "In arrivo",
       "codice": "",
-      "nota_famiglia": "Vueling ha annunciato solo la data di partenza (27 novembre), senza sconto né date di viaggio: da ricontrollare quel giorno per Natale e Pasqua da Fiumicino (nel 2025 era il 30% sui voli diretti). Non riguarda il Club Wizz né New York. Per Wizz Air il Black Friday/Pink Friday 2026 non è ancora annunciato (The Wom, aggiornato il 29/10): nel 2025 era −30% dal 26 al 28 novembre. All'11/11 The Wom (aggiornato il 29/10) conferma che il Pink Friday Wizz 2026 non è ancora annunciato; il 'secondo volo a metà prezzo' Ryanair per la Cyber Week è solo una previsione. Il 12/11 Moveo (Telepass, 9/11) conferma il 27 novembre come data d'inizio indicata da Vueling; sconto ancora non pubblicato.",
+      "nota_famiglia": "Vueling ha annunciato solo la data di partenza (27 novembre), senza sconto né date di viaggio: da ricontrollare quel giorno per Natale e Pasqua da Fiumicino (nel 2025 era il 30% sui voli diretti). Non riguarda il Club Wizz né New York. Per Wizz Air il Black Friday/Pink Friday 2026 non è ancora annunciato (The Wom, aggiornato il 29/10): nel 2025 era −30% dal 26 al 28 novembre. All'11/11 The Wom (aggiornato il 29/10) conferma che il Pink Friday Wizz 2026 non è ancora annunciato; il 'secondo volo a metà prezzo' Ryanair per la Cyber Week è solo una previsione. Il 12/11 Moveo (Telepass, 9/11) conferma il 27 novembre come data d'inizio indicata da Vueling; sconto ancora non pubblicato. Il 15/11 ancora nessuno sconto pubblicato (The Wom).",
       "fonte": "FlightTribe (aggiornato 26 ott 2026, da vueling.com) e The Wom Travel, 29 ottobre 2026",
       "link": "https://flighttribe.co.uk/vueling-sale-dates/",
       "rilevato": "2026-11-02"
-    },
-    {
-      "id": "ryanair-31ott",
-      "compagnia": "Ryanair",
-      "titolo": "Voli d'autunno da 21,99 € a tratta",
-      "prenota_entro": "2026-10-31",
-      "prenota_entro_testo": "sab 31 ott 2026",
-      "viaggio_dal": "2026-10-01",
-      "viaggio_al": "2026-12-17",
-      "viaggio_testo": "fino al 17 dic 2026",
-      "stato": "Scaduta",
-      "codice": "",
-      "nota_famiglia": "Copre i weekend di novembre e il ponte dell'Immacolata. Verifica che la rotta parta da Fiumicino: molti voli Ryanair da Roma partono da Ciampino. Scaduta sabato 31 ottobre.",
-      "fonte": "SiViaggia, 2 ottobre 2026",
-      "link": "https://siviaggia.it/notizie/promozione-ryanair-fino-31-ottobre-2026/604654/",
-      "rilevato": "2026-10-21"
-    },
-    {
-      "id": "volotea-31ott",
-      "compagnia": "Volotea",
-      "titolo": "Voli da 19 € a tratta su rotte selezionate",
-      "prenota_entro": "2026-10-31",
-      "prenota_entro_testo": "sab 31 ott 2026",
-      "viaggio_dal": "2026-11-01",
-      "viaggio_al": "2027-10-15",
-      "viaggio_testo": "1 nov 2026 – 15 ott 2027",
-      "stato": "Scaduta",
-      "codice": "",
-      "nota_famiglia": "Le rotte citate partono da Palermo, Venezia e Napoli (Grecia): nessuna da Roma nell'articolo, quindi interessa poco. Scaduta sabato 31 ottobre.",
-      "fonte": "SiViaggia, 16 ottobre 2026",
-      "link": "https://siviaggia.it/notizie/promozione-volotea-fino-31-ottobre-2026/606151/",
-      "rilevato": "2026-10-21"
     },
     {
       "id": "ryanair-1nov",
@@ -4042,9 +4038,9 @@
       "semaforo": "verde",
       "semaforo_emoji": "🟢",
       "semaforo_testo": "Prenota ora",
-      "motivo": "Il minimo resta Icelandair 11–20 giugno a 461 € a persona (circa 1.844 € in 4), sotto la soglia di 500 €, trovato il 10/11; oggi Kayak ha servito una versione più vecchia della pagina di giugno (22/10) e non lo mostra, quindi va riverificato su Kayak/Icelandair prima di prenotare.",
-      "min_giu_lug_pp": 461,
-      "min_giu_lug_testo": "461 € A/R a persona con Icelandair, ven 11 – dom 20 giu 2027, 1 scalo a Reykjavik (Kayak, pagina giugno 2027 del 7/11, vista il 10–13/11; il 14/11 Kayak ha servito la versione del 22/10, che non lo mostra). Da Fiumicino visti oggi: TAP via Lisbona 584 € (19–26 lug) e 585 € (7–21 lug), BA diretto 641 € (10–17 giu) e 645 € (1–14 lug), Air France diretto 658 € (14–28 giu), ITA diretto 721 € (6–21 lug). Norse ha sospeso Fiumicino–JFK per l'inverno 2026-27.",
+      "motivo": "Il minimo visibile oggi è Iberia 8–15 luglio a 493 € a persona (circa 1.972 € in 4), sotto la soglia di 500 €, ma viene da una versione vecchia della pagina Kayak (22/10); l'Icelandair a 461 € di giugno non compare più. Verifica su Kayak/Iberia prima di prenotare.",
+      "min_giu_lug_pp": 493,
+      "min_giu_lug_testo": "493 € A/R a persona con Iberia, gio 8 – gio 15 lug 2027, Fiumicino–New York con 1 scalo a Madrid (Kayak, pagina luglio 2027 servita oggi nella versione del 22/10, già registrata in passato: da riverificare). L'Icelandair 11–20 giu a 461 € non compare più nella pagina di giugno aggiornata al 13/11, dove da Fiumicino c'è Icelandair mar 8 – mar 15 giu a 470 € (un giorno prima della fine della scuola). Altri da Fiumicino oggi: BA via Londra 500 € (4–11 lug) e 501 € (2–9 lug), Delta/Air France/KLM diretti 652–655 € (2–29 lug), ITA diretto 694 € (8–15 lug). Norse ha sospeso Fiumicino–JFK per l'inverno 2026-27.",
       "riferimento_luglio_pp": 673,
       "tot4_riferimento": 2692,
       "tipico_basso": 460,
@@ -4066,7 +4062,7 @@
       "regola_semaforo": "Verde: trovato un A/R a persona sotto la soglia per giugno–luglio, oppure siamo tra gennaio e marzo con un prezzo sotto la mediana di luglio. Giallo: tariffe non ancora visibili o finestra non ancora aperta. Rosso: da aprile in poi sopra 700 €: prenota comunque, i prezzi tendono a salire.",
       "documenti_testo": "Servono passaporto ed ESTA per tutti e 4, ragazzi compresi: fai l'ESTA sul sito ufficiale con qualche settimana di anticipo.",
       "partenza_target": "2027-06-10",
-      "ultimo_controllo": "2026-11-14",
+      "ultimo_controllo": "2026-11-15",
       "link_fonte": "https://www.kayak.it/voli/Italia-IT0/New-York-NYC.giugno.M06.ksp",
       "link_gflights": "https://www.google.com/travel/flights?hl=it&curr=EUR&q=Flights%20from%20FCO%20to%20NYC%20on%202027-06-10%20through%202027-06-24",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/nyca/270610/270624/?adultsv2=2&childrenv2=9%7C12&rtn=1"

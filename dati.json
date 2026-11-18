@@ -1,6 +1,6 @@
 {
   "versione": 2,
-  "aggiornato_il": "2026-11-17",
+  "aggiornato_il": "2026-11-18",
   "famiglia": {
     "adulti": 2,
     "ragazzi": [
@@ -27,14 +27,14 @@
   },
   "controllo": {
     "id": "ultimo",
-    "ultimo_controllo": "2026-11-17",
-    "prossimo_controllo": "2026-11-18",
+    "ultimo_controllo": "2026-11-18",
+    "prossimo_controllo": "2026-11-19",
     "soglia_europa": 50,
     "soglia_ny": 500,
     "club_sconto_tratta": 10,
     "club_soglia_tratta": 29.99,
     "cambio_usd_eur": 1.1172,
-    "nota": "Controllo di martedì 17 novembre 2026: nessuna promo nuova (The Wom, SiViaggia, PiratinViaggio: Black Friday Wizz e Ryanair non ancora annunciati; Vueling dal 27/11; tolta ITA Halloween scaduta il 2/11); New York dalla pagina Kayak di luglio aggiornata al 16/11 (Iberia 493 € sparito, minimo BA 656 €) e di giugno invariata (13/11); voli Europa da Kayak.it (Ungheria 13/11, Wizz Italia–Budapest 17/11, Ryanair Roma–Budapest 13/11): nessuna tariffa migliore, occasioni e mete in calo invariate; Likibu invariato; hotel Kayak di Cracovia e Valencia ancora nella versione del 20/10.",
+    "nota": "Controllo di mercoledì 18 novembre 2026: nuova promo Ryanair −15% (prenotazioni entro il 19/11, viaggi fino al 31/1; SiViaggia 18/11); Black Friday Wizz, Ryanair, easyJet ancora non annunciati (The Wom 17/11); PiratinViaggio (17/11) mostra Wizz da Roma solo andata da 25 € (Valencia 1/12, Alicante 16/1 27 €); New York e voli Europa da Kayak.it (pagine del 13/11 e 16/11, invariate); Likibu invariato; Likibu New York e hotel Kayak non riletti oggi.",
     "giorni_scuola_ammessi": 0,
     "alert_promo": "tutte",
     "messaggi": "sempre",
@@ -1674,8 +1674,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/budapest",
-        "rilevato": "2026-11-17",
-        "nota": "Likibu riletto il 17/11: invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-18",
+        "nota": "Likibu riletto il 18/11: invariato in dollari (media 166 $); convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "tutti gli hotel",
@@ -1742,8 +1742,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/krakow-cracow",
-        "rilevato": "2026-11-17",
-        "nota": "Likibu riletto il 17/11: invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-18",
+        "nota": "Likibu riletto il 18/11: invariato in dollari (media 132 $); convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -1810,8 +1810,8 @@
         "valuta_fonte": "USD",
         "fonte": "Likibu (case vacanza e Airbnb, media a notte)",
         "link": "https://www.likibu.com/us/accommodation/valencia",
-        "rilevato": "2026-11-17",
-        "nota": "Likibu riletto il 17/11: invariato in dollari; convertito con USD 1.1172."
+        "rilevato": "2026-11-18",
+        "nota": "Likibu riletto il 18/11: invariato in dollari (media 232 $); convertito con USD 1.1172."
       },
       "hotel": {
         "categoria": "hotel per famiglie",
@@ -3589,6 +3589,27 @@
       "appartamento_media_notte": 363,
       "hotel_settimana": 355,
       "hotel_weekend": 377
+    },
+    {
+      "data": "2026-11-18",
+      "citta_id": "budapest",
+      "appartamento_media_notte": 149,
+      "hotel_settimana": 181,
+      "hotel_weekend": 183
+    },
+    {
+      "data": "2026-11-18",
+      "citta_id": "cracovia",
+      "appartamento_media_notte": 118,
+      "hotel_settimana": 92,
+      "hotel_weekend": 134
+    },
+    {
+      "data": "2026-11-18",
+      "citta_id": "valencia",
+      "appartamento_media_notte": 208,
+      "hotel_settimana": 174,
+      "hotel_weekend": 189
     }
   ],
   "occasioni": [
@@ -3861,6 +3882,22 @@
   ],
   "promo": [
     {
+      "id": "ryanair-19nov",
+      "compagnia": "Ryanair",
+      "titolo": "15% di sconto sui voli (promo lampo 18–19 novembre)",
+      "prenota_entro": "2026-11-19",
+      "prenota_entro_testo": "gio 19 nov 2026 (ora non indicata)",
+      "viaggio_dal": "2026-11-19",
+      "viaggio_al": "2027-01-31",
+      "viaggio_testo": "19 nov 2026 – 31 gen 2027",
+      "stato": "Attiva",
+      "codice": "",
+      "nota_famiglia": "Copre il weekend del 28–29 novembre, il ponte dell'Immacolata e le vacanze di Natale; l'articolo non cita rotte da Roma (esempi da Bologna e Milano), quindi va verificato su ryanair.com per Fiumicino/Ciampino; non riguarda il Club Wizz né New York.",
+      "fonte": "SiViaggia, 18 novembre 2026",
+      "link": "https://siviaggia.it/notizie/promozione-ryanair-18-19-novembre-2026/609907/",
+      "rilevato": "2026-11-18"
+    },
+    {
       "id": "ryanair-12nov",
       "compagnia": "Ryanair",
       "titolo": "Promo flash: voli da 16,99 € a tratta",
@@ -4027,7 +4064,7 @@
       "semaforo": "giallo",
       "semaforo_emoji": "🟡",
       "semaforo_testo": "Aspetta e tieni d'occhio",
-      "motivo": "Nella pagina Kayak di luglio aggiornata al 16/11 il prezzo Iberia a 493 € è sparito: il minimo da Fiumicino nelle date utili è BA diretto 1–15 luglio a 656 € a persona, sopra la soglia di 500 €. La finestra migliore per prenotare si apre a inizio gennaio: per ora aspetta.",
+      "motivo": "Le pagine Kayak di luglio (16/11) e giugno (13/11) non sono cambiate: il minimo da Fiumicino nelle date utili resta British Airways diretto 1–15 luglio a 656 € a persona, sopra la soglia di 500 €. La finestra migliore per prenotare si apre a inizio gennaio: per ora aspetta.",
       "min_giu_lug_pp": 656,
       "min_giu_lug_testo": "656 € A/R a persona con British Airways diretto, gio 1 – gio 15 lug 2027, Fiumicino–JFK (Kayak, pagina luglio 2027 versione del 16/11). L'Iberia 8–15 lug a 493 € della versione del 22/10 non compare più. Altri da Fiumicino a luglio: ITA diretto 13–27 lug 669 €; Aer Lingus 553 € e SAS 577 € solo con ritorno a fine agosto. Giugno (pagina del 13/11, invariata): Icelandair 8–15 giu 470 € e Aer Lingus 2–6 giu 444 € partono prima della fine della scuola; ITA diretto 12 giu – 3 ott 581 € non adatto.",
       "riferimento_luglio_pp": 673,
@@ -4051,7 +4088,7 @@
       "regola_semaforo": "Verde: trovato un A/R a persona sotto la soglia per giugno–luglio, oppure siamo tra gennaio e marzo con un prezzo sotto la mediana di luglio. Giallo: tariffe non ancora visibili o finestra non ancora aperta. Rosso: da aprile in poi sopra 700 €: prenota comunque, i prezzi tendono a salire.",
       "documenti_testo": "Servono passaporto ed ESTA per tutti e 4, ragazzi compresi: fai l'ESTA sul sito ufficiale con qualche settimana di anticipo.",
       "partenza_target": "2027-06-10",
-      "ultimo_controllo": "2026-11-17",
+      "ultimo_controllo": "2026-11-18",
       "link_fonte": "https://www.kayak.it/voli/Italia-IT0/New-York-NYC.giugno.M06.ksp",
       "link_gflights": "https://www.google.com/travel/flights?hl=it&curr=EUR&q=Flights%20from%20FCO%20to%20NYC%20on%202027-06-10%20through%202027-06-24",
       "link_skyscanner": "https://www.skyscanner.it/trasporti/voli/fco/nyca/270610/270624/?adultsv2=2&childrenv2=9%7C12&rtn=1"
